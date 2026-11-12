@@ -11,3 +11,4 @@
 | `git commit -m "说明"` | 存一个档 |
 | `git push` | 推送到 GitHub |
 | `git pull` | 拉取云端最新版 |
+ 这一行是我新添加的内容
